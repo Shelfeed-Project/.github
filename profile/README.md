@@ -323,37 +323,37 @@ npm run dev
     <thead>
       <tr>
         <th width="20%">name</th>
-        <th width="20%"><!-- 실명 --></th>
         <th width="20%">김승조</th>
-        <th width="20%"><!-- 실명 --></th>
-        <th width="20%"><!-- 실명 --></th>
+        <th width="20%">김민규</th>
+        <th width="20%">조민정</th>
+        <th width="20%">백현준</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center"><b>Profile</b></td>
-        <td align="center"><img src="https://github.com/Bhyunjun.png" width="100"></td>
         <td align="center"><img src="https://github.com/SeungJo-02.png" width="100"></td>
-        <td align="center"><img src="https://github.com/chocandy.png" width="100"></td>
         <td align="center"><img src="https://github.com/sincereQK.png" width="100"></td>
+        <td align="center"><img src="https://github.com/chocandy.png" width="100"></td>
+        <td align="center"><img src="https://github.com/Bhyunjun.png" width="100"></td>
       </tr>
       <tr>
         <td align="center"><b>Position</b></td>
-        <td align="center"><!-- 역할 예: Backend --></td>
-        <td align="center">Frontend<br>Design<br>UI/UX</td>
-        <td align="center"><!-- 역할 --></td>
-        <td align="center"><!-- 역할 --></td>
+        <td align="center">Full Stack<br>Cloud</td>
+        <td align="center">Frontend<br>Design</td>
+        <td align="center">Frontend</td>
+        <td align="center">Backend</td>
       </tr>
       <tr>
         <td align="center"><b>GitHub</b></td>
         <td align="center">
-          <a href="https://github.com/Bhyunjun">
-            <img src="http://img.shields.io/badge/Bhyunjun-181717?style=social&logo=github"/>
+          <a href="https://github.com/SeungJo-02">
+            <img src="http://img.shields.io/badge/SeungJo02-181717?style=social&logo=github"/>
           </a>
         </td>
         <td align="center">
-          <a href="https://github.com/SeungJo-02">
-            <img src="http://img.shields.io/badge/SeungJo02-181717?style=social&logo=github"/>
+          <a href="https://github.com/sincereQK">
+            <img src="http://img.shields.io/badge/sincereQK-181717?style=social&logo=github"/>
           </a>
         </td>
         <td align="center">
@@ -362,8 +362,8 @@ npm run dev
           </a>
         </td>
         <td align="center">
-          <a href="https://github.com/sincereQK">
-            <img src="http://img.shields.io/badge/sincereQK-181717?style=social&logo=github"/>
+          <a href="https://github.com/Bhyunjun">
+            <img src="http://img.shields.io/badge/Bhyunjun-181717?style=social&logo=github"/>
           </a>
         </td>
       </tr>
