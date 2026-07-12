@@ -1,5 +1,7 @@
 <div align="center">
   <h1>📚 SHELFEED 📚</h1>
+  <img width="512" height="512" alt="TEAM_F_로고_정사각-Photoroom" src="https://github.com/user-attachments/assets/4b55c7f1-4b16-45e9-8b94-729bdfe5a57d" />
+
   <p>
     <b><!-- 프로젝트 기간 예: 2026.03.01 - 2026.06.30 --></b>
   </p>
