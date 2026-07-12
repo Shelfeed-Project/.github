@@ -47,27 +47,27 @@
 ### 온보딩 / 로그인
 > 소셜 로그인(OAuth)으로 간편하게 시작합니다.
 <!-- <img src="이미지_링크" width="100%" alt="Onboarding" /> -->
+https://github.com/user-attachments/assets/13d4087c-c265-43f4-9f7f-029428c647bf
+
 
 ### 도서 검색 및 등록 (바코드 스캔)
 > 책 제목·저자 검색 또는 ISBN 바코드 스캔으로 책을 빠르게 찾아 서재에 담습니다.
 <!-- <img src="이미지_링크" width="100%" alt="Book Search" /> -->
+https://github.com/user-attachments/assets/492e88d2-2b73-49eb-81c4-269c8bed682b
 
 ### 감상 작성 및 공유
 > 책을 읽고 느낀 점을 감상으로 기록하고 다른 독자와 공유합니다.
 <!-- <img src="이미지_링크" width="100%" alt="Review" /> -->
+https://github.com/user-attachments/assets/843ed5d6-16c1-407b-a41d-c0e2058889b2
 
 ### 나의 서재 · 지혜의 탑
 > 읽은 책으로 서재를 채우고, 완독한 책이 쌓여 '지혜의 탑'이 성장합니다.
 <!-- <img src="이미지_링크" width="100%" alt="Library" /> -->
+https://github.com/user-attachments/assets/4c83ea35-bff9-4451-8a48-e0e313765974
 
-### 피드 · 소셜 인터랙션
+### 피드 · 소셜 인터랙션 ·  알림
 > 팔로우한 독자들의 감상을 피드에서 만나고, 좋아요·댓글로 소통합니다.
 <!-- <img src="이미지_링크" width="100%" alt="Feed" /> -->
-
-### 알림
-> 좋아요·댓글·팔로우 등 나와 관련된 활동을 실시간 알림으로 확인합니다.
-<!-- <img src="이미지_링크" width="100%" alt="Notification" /> -->
-
 <br>
 
 <a id="api"></a>
@@ -75,6 +75,7 @@
 ### Swagger
 > SpringDoc OpenAPI 기반 Swagger UI 로 전체 API 명세를 제공합니다. (`/swagger-ui/index.html`)
 <!-- <img width="100%" alt="Swagger" src="이미지_링크" /> -->
+<img width="400" height="300" alt="스웨거" src="https://github.com/user-attachments/assets/8bd92293-26d9-4c45-97b1-dfb7d128be5f" />
 
 <br>
 
@@ -83,12 +84,18 @@
 <!-- 시스템 아키텍처 다이어그램 첨부 -->
 <!-- <img width="100%" alt="System Architecture" src="이미지_링크" /> -->
 
+<img width="861" height="433" alt="스크린샷 2026-07-12 오후 7 56 56" src="https://github.com/user-attachments/assets/d80453c9-7c75-4a0e-8faa-226c30f8e448" />
+
+
 <br>
 
 <a id="erd"></a>
 # 🗝️ ERD
 <!-- ERD 이미지 첨부 -->
 <!-- <img src="이미지_링크" width="100%" alt="ERD" /> -->
+
+<img width="1057" height="836" alt="스크린샷 2026-07-12 오후 7 58 16" src="https://github.com/user-attachments/assets/0f8337cf-e852-4376-8d31-888da4ea14f5" />
+
 
 <br>
 
@@ -178,20 +185,23 @@
 <br>
 
 <a id="monitoring"></a>
-# 🔍 Monitoring
-> Prometheus·Grafana·Loki·Tempo 기반의 메트릭/로그/트레이싱 통합 관측 스택과,
-> k6·InfluxDB 를 활용한 부하 테스트 환경을 구축했습니다.
-
-### Grafana Dashboard
-<!-- <img src="이미지_링크" width="100%" alt="Grafana" /> -->
-
-### Prometheus
-<!-- <img src="이미지_링크" width="100%" alt="Prometheus" /> -->
 
 ### k6 부하 테스트 (Elasticsearch 도입 전/후 비교)
 > 도서 검색 성능 개선을 위해 `%LIKE%` 풀스캔 → Elasticsearch 역인덱스로 전환하고,
 > k6 로 AS-IS/TO-BE 를 동일 조건에서 측정해 개선 효과를 검증했습니다.
 <!-- <img src="이미지_링크" width="100%" alt="k6" /> -->
+<img width="1168" height="1076" alt="스크린샷 2026-07-12 오후 7 59 33" src="https://github.com/user-attachments/assets/b9168c47-e625-4f5a-af21-8bbd32d11ced" />
+<img width="1168" height="947" alt="스크린샷 2026-07-12 오후 7 59 49" src="https://github.com/user-attachments/assets/ae2da3ef-1e6b-4941-9d54-e024f3915183" />
+<img width="1168" height="1046" alt="스크린샷 2026-07-12 오후 8 00 01" src="https://github.com/user-attachments/assets/6a444942-cb2b-410a-be32-b7549a2bfe4d" />
+<img width="1168" height="770" alt="스크린샷 2026-07-12 오후 8 00 20" src="https://github.com/user-attachments/assets/124ebd38-e88b-4bbb-bbe8-93c8120f0844" />
+<img width="1168" height="1069" alt="스크린샷 2026-07-12 오후 8 00 32" src="https://github.com/user-attachments/assets/bc5690ce-28b4-4a79-a84a-ea5cbc17706f" />
+
+
+<img width="1335" height="1069" alt="스크린샷 2026-07-12 오후 8 07 37" src="https://github.com/user-attachments/assets/afd6aa21-bbd2-4fbb-af9f-9a37015cc6ac" />
+<img width="1335" height="1086" alt="스크린샷 2026-07-12 오후 8 08 05" src="https://github.com/user-attachments/assets/7f405ae6-8bf1-4b2d-a5e7-4d5344748206" />
+<img width="1335" height="1086" alt="스크린샷 2026-07-12 오후 8 08 20" src="https://github.com/user-attachments/assets/e442cd4f-f75c-44dd-853c-6528ab466843" />
+
+
 
 <br>
 
