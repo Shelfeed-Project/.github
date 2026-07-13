@@ -29,7 +29,7 @@
 <a id="introduction"></a>
 # 📣 Introduction
 ### URL
-> https://www.shelfeed.co.kr (현재 배포 중단)
+> https://www.shelfeed.co.kr
 
 ### API
 > https://api.shelfeed.co.kr
